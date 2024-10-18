@@ -1,4 +1,17 @@
 # Fdb version 4
+<<<<<<< HEAD
+["latex"] 1728793535 "main/main.tex" "main.dvi" "main" 1728793540 2
+  "/usr/local/texlive/2023/texmf-dist/tex/platex/base/jreport.cls" 1601501154 28956 74fdfec6238561e8f6aeb96dde1454bf ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/latex.fmt" 1703146511 7883597 81e6ee3e0243541cbf621af7216e93a0 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "main.aux" 1728793267 1149 fa958286bc2faf5e5c008552fa7e5ecf "latex"
+  "main/main.tex" 1728793265 2803 69885c0cba19cfbbace8221992381557 ""
+  (generated)
+  "main.aux"
+  "main.dvi"
+  "main.log"
+=======
 ["pdflatex"] 1728633762 "main/main.tex" "main.pdf" "main" 1728633783 2
   "/usr/local/texlive/2023/texmf-dist/tex/platex/base/jreport.cls" 1601501154 28956 74fdfec6238561e8f6aeb96dde1454bf ""
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
@@ -10,4 +23,5 @@
   "main.aux"
   "main.log"
   "main.pdf"
+>>>>>>> main
   (rewritten before read)
