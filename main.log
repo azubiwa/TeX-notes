@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.12.21)  18 OCT 2024 16:37
-=======
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.12.21)  11 OCT 2024 17:43
->>>>>>> main
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.12.21)  18 OCT 2024 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -379,68 +375,26 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 (/usr/local/texlive/2023/texmf-dist/tex/platex/pxchfon/pxchfon.sty
 Package: pxchfon 2023/02/22 v1.9a
 )
-<<<<<<< HEAD
-=======
-(/usr/local/texlive/2023/texmf-dist/tex/platex/japanese-otf/otf.sty
-Package: otf 2023/02/23 TeX JP org, v1.7b8 psitau, u0.28 ttk
-Package otf Info: Autodetected engine: pLaTeX on input line 63.
-LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 333.
-LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
-(Font)                  JY1/mc/m/n --> JY1/hmc/m/n on input line 333.
-LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/gt/m/n --> JY1/hmc/m/n on input line 333.
-LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/hmc/m/n --> JY1/hmc/bx/n on input line 335.
-LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 336.
-LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
-(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 336.
-LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
-(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 336.
-LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
-(Font)                  JY1/hgt/m/n --> JY1/hgt/bx/n on input line 337.
-
-(/usr/local/texlive/2023/texmf-dist/tex/platex/japanese-otf/ajmacros.sty
-Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp
->
-\@tempcntc=\count292
-\@tempcntd=\count293
-\@tempcnte=\count294
-\@tempcntf=\count295
-))
->>>>>>> main
 (/usr/local/texlive/2023/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-<<<<<<< HEAD
 \calc@Acount=\count292
 \calc@Bcount=\count293
-=======
-\calc@Acount=\count296
-\calc@Bcount=\count297
->>>>>>> main
 \calc@Adimen=\dimen199
 \calc@Bdimen=\dimen256
 \calc@Askip=\skip70
 \calc@Bskip=\skip71
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-<<<<<<< HEAD
 \calc@Ccount=\count294
-=======
-\calc@Ccount=\count298
->>>>>>> main
 \calc@Cskip=\skip72
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-<<<<<<< HEAD
 \g_MT_multlinerow_int=\count295
-=======
-\g_MT_multlinerow_int=\count299
->>>>>>> main
 \l_MT_multwidth_dim=\dimen257
 \origjot=\skip73
 \l_MT_shortvdotswithinadjustabove_dim=\dimen258
@@ -452,7 +406,6 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \xmathstrut@box=\box123
 \xmathstrut@dim=\dimen264
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
@@ -819,25 +772,24 @@ LaTeX Font Info:    ... okay on input line 37.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 46.
-[1
+ [1
 
-] (./main.toc
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 2.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+] (./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -889,40 +841,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5
 
+]
+第 4 章
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.63252pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.63252pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.63252pt}.
+
+[6
+
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 16246 strings out of 476693
- 318217 string characters out of 5805372
- 1850209 words of memory out of 5000000
- 36382 multiletter control sequences out of 15000+600000
- 529713 words of font info for 100 fonts, out of 8000000 for 9000
+ 16265 strings out of 476693
+ 318450 string characters out of 5805372
+ 1849209 words of memory out of 5000000
+ 36397 multiletter control sequences out of 15000+600000
+ 534279 words of font info for 117 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  84i,11n,80p,390b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.dvi (5 pages, 16464 bytes).
-=======
-
-! LaTeX Error: File `tikZ.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.27 ^^M
-        
-End of file on the terminal!
-
- 
-Here is how much of TeX's memory you used:
- 7905 strings out of 476693
- 117603 string characters out of 5805372
- 1842209 words of memory out of 5000000
- 28293 multiletter control sequences out of 15000+600000
- 517027 words of font info for 53 fonts, out of 8000000 for 9000
- 929 hyphenation exceptions out of 8191
- 54i,0n,62p,328b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
-No pages of output.
->>>>>>> main
+Output written on main.dvi (6 pages, 15136 bytes).
