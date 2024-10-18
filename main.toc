@@ -5,4 +5,4 @@
 \contentsline {section}{\numberline {3.1}線形代数}{5}{}%
 \contentsline {subsection}{\numberline {3.1.1}行列式}{5}{}%
 \contentsline {section}{\numberline {3.2}群論}{5}{}%
-\contentsline {subsection}{\numberline {3.2.1}準同型定理！}{5}{}%
+\contentsline {subsection}{\numberline {3.2.1}準同型定理}{5}{}%
