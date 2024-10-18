@@ -8,3 +8,4 @@ platex main/main.tex
 dvipdfmx main.dvi  
 
 の2つを順番に使うとコンパイルされる...
+カレントディレクトリにpdfができるみたいなので、コンパイル前にcdで移動すべき？
